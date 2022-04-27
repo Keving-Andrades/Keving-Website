@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const ci = document.getElementById('ci');
-    const main = document.getElementById('main')
+    const main = document.getElementById('main');
 
     ci.addEventListener('click', () => {
         copyToClipboard('28050847');
