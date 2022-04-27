@@ -194,7 +194,7 @@ main > a > span {
     transition: transform 7s cubic-bezier(0, 0, 0, 0);
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 707px) {
     main > h1 {
         font-size: 4em;
         text-align: center;
